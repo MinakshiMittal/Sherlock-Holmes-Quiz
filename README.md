@@ -10,3 +10,5 @@ There will be three rounds in total. If you score full in a particular round the
 4. If the answer is correct it will show "You are right" and the score will increment by one.
 5. If the answer is incorrect, it will show "OOOOOPS! You are wrong." and there will be no increment in the score. It will remain the same.
 6. If you score the highest then you need to screenshot your score and send it to me and I'll update the highscore details with your details.
+
+Hope you'll enjoy playing!
